@@ -5,7 +5,7 @@ that was the gui here is the menu
 
 Compatablity works from Win 7 - Latest Version
 
-I am Making this code open source and you can edit it
+This code is open source and you can edit it
 
 Credits:
 Adam T. Nassar
